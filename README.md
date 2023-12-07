@@ -1,4 +1,4 @@
-# TransactionalBot
+# TransactionalBot https://t.me/Transactional_bot
 
                    A bot that returns the price for a certain amount of currency (euro, dollar or ruble).
                                            link - https://t.me/Transactional_bot
